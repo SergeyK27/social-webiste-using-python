@@ -1,2 +1,15 @@
-# social-webiste-using-python
-This is social website code using python
+# Flask Social Network
+
+Sign up, login, make posts, and follow other users.
+
+Configured for PythonAnywhere deployment.
+
+######################################
+
+* User registration and authentication
+
+* Password hashing
+
+* Form validation
+
+* Joins
